@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cool Interactive Art!
+title: teamLab
 ---
 
 # teamLab
